@@ -1,12 +1,12 @@
-## Hi there. I'm Furkan...👋
+## Hi there. I'm İbrahim...👋
 
 
 - 🔭 I'm currently working on frontend development (JavaScript | Typescript | React.js  SASS/SCSS | Bootstrap)
 
 ## 👨👩 Social
 
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkanbulut96/)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:furkanbulut2023@gmail.com)
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sert-ibrahim/))
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:evo3506@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkanbulut96" alt="furkanbulut" /> </p>
 
