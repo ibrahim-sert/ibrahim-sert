@@ -25,4 +25,4 @@
 
 </p>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=furkanbulut96&theme=chartreuse-dark" alt="my github stats" width="49%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanbulut96&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" >
+<img src="https://github-readme-stats.vercel.app/api?username=ibrahim-sert&theme=chartreuse-dark" alt="my github stats" width="49%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-sert&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" >
