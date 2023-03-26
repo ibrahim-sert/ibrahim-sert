@@ -25,7 +25,7 @@
 <img
      src="https://github-readme-stats.vercel.app/api?username=ibrahim-sert&theme=blue-green"
      alt=""
-     /> </br></br></br>
+     /> 
 <img
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-sert&theme=blue-green"
      alt=""
