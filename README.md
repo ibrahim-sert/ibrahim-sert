@@ -125,11 +125,11 @@ Project Demo       |Libraries and Technologies I use  |Project Preview
 <div  align="center">
 <br/>
 <img
-     src="https://github-readme-stats.vercel.app/api?username=Cakir010&theme=blue-green"
+     src="https://github-readme-stats.vercel.app/api?username=ibrahim-sert&theme=blue-green"
      alt=""
      /> </br></br></br>
 <img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cakir010&theme=blue-green"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-sert&theme=blue-green"
      alt=""
      /> <br/>
 </div>
