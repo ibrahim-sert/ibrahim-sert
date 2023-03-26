@@ -19,7 +19,19 @@
 </br>
 </br>
 </br>
-
+<h2 align="center">💡Most Used Language</h2>
+<div  align="center">
+<br/>
+<img
+     src="https://github-readme-stats.vercel.app/api?username=ibrahim-sert&theme=blue-green"
+     alt=""
+     /> </br></br></br>
+<img
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-sert&theme=blue-green"
+     alt=""
+     /> 
+     </br>
+</br>
 <h2 align="center">🚀Technical Skills</h2>
 <div align="center">
 <img
@@ -121,15 +133,5 @@ Project Demo       |Libraries and Technologies I use  |Project Preview
 
 <br>
 
-<h2 align="center">💡Most Used Language</h2>
-<div  align="center">
 <br/>
-<img
-     src="https://github-readme-stats.vercel.app/api?username=ibrahim-sert&theme=blue-green"
-     alt=""
-     /> </br></br></br>
-<img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-sert&theme=blue-green"
-     alt=""
-     /> <br/>
 </div>
