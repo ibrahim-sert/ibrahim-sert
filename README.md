@@ -105,6 +105,7 @@ Project Demo       |Libraries and Technologies I use  |Project Preview
 [HTML-CSS-JavaScript](https://cakir010.github.io/Todo-List-Project/) <h3>[Repo](https://cakir010.github.io/Todo-List-Project/)</h3> | JS - Array İteration |<img src="https://media.giphy.com/media/DccZ4GEmpqkTDKzrM1/giphy.gif" align="right" width="500">
 [HTML-CSS-JavaScript](https://cakir010.github.io/Random-generator/) <h3>[Repo](https://cakir010.github.io/Random-generator/)</h3> | JS - Array İteration |<img src="https://media.giphy.com/media/bPj8fVRfv8ZyKLikGn/giphy.gif" align="right" width="500">
 [React - SASS ](https://github.com/Cakir010/Sass-Proje-React) <h3>[Repo](https://github.com/Cakir010/Sass-Proje-React) </h3> | React - Sass  |<img src="https://media.giphy.com/media/Ty4KM5LDfwfksLn3MK/giphy.gif" align="right" width="500">
+[React - SASS ](https://github.com/Cakir010/Sass-Proje-React) <h3>[Repo](https://github.com/Cakir010/Sass-Proje-React) </h3> | React - Sass  |<img src="https://media.giphy.com/media/PVybnqX6spWPwRZDNN/giphy.gif" align="right" width="500">
 
 
 
