@@ -66,7 +66,7 @@
 
 Project Demo       |Libraries and Technologies I use  |Project Preview   
 :-------------------------|---------------------|------------------
-[React - Tailwind ](https://movieapps-tailwinds.netlify.app) <h3>[Repo](https://github.com/Cakir010/Sass-Proje-React) </h3> | React - Sass  |<img src="https://media.giphy.com/media/PVybnqX6spWPwRZDNN/giphy.gif" align="right" width="500">
+[React - Tailwind ](https://movieapps-tailwinds.netlify.app) <h3>[Repo](https://github.com/ibrahim-sert/project-movieApp-with-Tailwind) </h3> | React - React-Router-Library - React-Toastify - Tailwind-Library - Axios-Library and Firebase - Context API |<img src="https://media.giphy.com/media/PVybnqX6spWPwRZDNN/giphy.gif" align="right" width="500">
 [React - Styled Components ](https://library-with-styled-componets.netlify.app) <h3>[Repo](https://github.com/ibrahim-sert/project-movieApp-with-Tailwind) </h3> | React - React-Router-Library - React-Toastify - Tailwind-Library - Axios-Library and Firebase - Context API |<img src="https://media.giphy.com/media/HOcCk32gpuBzx7OlPM/giphy.gif" align="right" width="500">
 [React - Tailwind](https://food-app-react-project.netlify.app/) <h3>[Repo](https://food-app-react-project.netlify.app/)</h3> | React - Tailwind |<img src="https://media.giphy.com/media/ZeMPZf19iyAVkHyB3h/giphy.gif" align="right" width="500">
 [React - Hook -StyleComponent](https://classy-maamoul-be6003.netlify.app/) <h3>[Repo](https://classy-maamoul-be6003.netlify.app/)</h3> | React - Hook- StyleComponent |<img src="https://media.giphy.com/media/eZAEErBuMzfTaFu3Hg/giphy.gif" align="right" width="500">
