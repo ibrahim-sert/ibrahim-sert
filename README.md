@@ -12,9 +12,9 @@
 
 #### 📬 Connect with me:
 
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yunus-emre-%C3%A7ak%C4%B1r/)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:szrokmn34@gmail.com)
-[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://https://medium.com/@szrokmn34)
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sert-ibrahim/)
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:evo3506@gmail.com)
+[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@evo3506)
 
 </br>
 </br>
