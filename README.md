@@ -66,6 +66,7 @@
 
 Project Demo       |Libraries and Technologies I use  |Project Preview   
 :-------------------------|---------------------|------------------
+[React - MUI ](https://blogapp-with-mui.netlify.app) <h3>[Repo](https://github.com/ibrahim-sert/project-BlogApp) </h3> | React - React-Router-Library - React-Toastify - Material UI-Library - Axios-Library - Redux - Custom Hooks - Redux-Persist - Formik and Yup |<img src="https://media.giphy.com/media/Wt7n8HxTt8nXhdQgWi/giphy.gif" align="right" width="500">
 [React - Tailwind ](https://movieapps-tailwinds.netlify.app) <h3>[Repo](https://github.com/ibrahim-sert/project-movieApp-with-Tailwind) </h3> | React - React-Router-Library - React-Toastify - Tailwind-Library - Axios-Library and Firebase - Context API |<img src="https://media.giphy.com/media/PVybnqX6spWPwRZDNN/giphy.gif" align="right" width="500">
 [React - Styled Components ](https://library-with-styled-componets.netlify.app) <h3>[Repo](https://github.com/ibrahim-sert/project-library-with-styled-components) </h3> | React - Styled Components - React Router Library - Axios Library |<img src="https://media.giphy.com/media/HOcCk32gpuBzx7OlPM/giphy.gif" align="right" width="500">
 [React - Bootstrap ](https://project-appoinment.netlify.app/) <h3>[Repo](https://github.com/ibrahim-sert/rc10_appoinment-project) </h3> | React - Bootstrap - React Bootstrap - React Dom - React Icons |<img src="https://media.giphy.com/media/PKATrwjK0tYFqUjqfq/giphy.gif" align="right" width="500">
